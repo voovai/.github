@@ -37,6 +37,7 @@ Free · Google sign-in · No credit card.
 | --- | --- |
 | [`catalyst`](https://github.com/voovai/catalyst) | Product · Frontend — Next.js + React + TypeScript |
 | [`catalyst-api`](https://github.com/voovai/catalyst-api) | Product · Backend — Python FastAPI |
+| [`catalyst-ios`](https://github.com/voovai/catalyst-ios) | Product · Native iOS — SwiftUI |
 | [`www`](https://github.com/voovai/www) | Marketing site — [voov.ai](https://voov.ai) |
 | [`voovdocs`](https://github.com/voovai/voovdocs) | Documentation — [docs.voov.ai](https://docs.voov.ai) |
 
